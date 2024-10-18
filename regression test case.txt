@@ -1,0 +1,7 @@
+Unit testing
+Smoke testing 
+Sanity testing
+Regression testing
+Final testing
+Comprehensive testing
+Functional testing
